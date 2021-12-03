@@ -11,19 +11,19 @@
 
 ### Conhecimentos:
 
-💻 HTML/CSS
-✒ Adobe Photoshop
-📚 Pacote Office
-📐 Figma
+💻 HTML/CSS </br>
+✒ Adobe Photoshop </br>
+📚 Pacote Office </br>
+📐 Figma </br>
 🎲 MySQL
 
 ### Status:
 
-📌 Procurando por um estágio em Front-end, Web Design ou Design Gráfico
-🎨 Trabalhando como Freelancer 
+📌 Procurando por um estágio em Front-end, Web Design ou Design Gráfico </br>
+🎨 Trabalhando como Freelancer </br>
 💡 Estudando Informática na Etec Profª Maria Cristina Medeiros
 
-### Portfólio e currículo online
+### Currículo online e Portfólio:
 
-#### http://sofiaaquino.myartsonline.com/
-#### https://www.behance.net/sofidesigner
+#### 👩‍💻 http://sofiaaquino.myartsonline.com/
+#### 📒 https://www.behance.net/sofidesigner
