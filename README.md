@@ -24,7 +24,7 @@
 
 📌 Procurando por um estágio em Front-end, Web Design ou Design Gráfico </br>
 🎨 Trabalhando como Freelancer </br>
-🎓 Técnica em Informática para Internet pela Etec Profa Maria Cristina Medeiros
+🎓 Técnica em Informática para Internet pela Etec Profa Maria Cristina Medeiros </br> 
 💡 Estudando Design Gráfico na Universidade Anhembi Morumbi
 
 ### Currículo online e Portfólio:
