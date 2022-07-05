@@ -20,6 +20,7 @@
 🧮 Excel avançado </br>
 📝 Word avançado </br>
 📐 Figma </br>
+🛠 Manutenção de computadores
 
 ### Status:
 
