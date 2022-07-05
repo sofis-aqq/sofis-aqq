@@ -14,11 +14,12 @@
 
 💻 HTML/CSS </br>
 ✒ Adobe Photoshop </br>
-📚 Pacote Office </br>
-📐 Figma </br>
-🎲 MySQL </br>
 📖 Adobe InDesign </br>
-
+📏 Adobe XD </br>
+🎞 Adobe Premiere </br>
+🧮 Excel avançado </br>
+📝 Word avançado </br>
+📐 Figma </br>
 
 ### Status:
 
